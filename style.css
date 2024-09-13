@@ -1,0 +1,30 @@
+/*centering text*/
+*{
+    text-align: center;
+}
+html{
+    background-color: #F5EDED;
+}
+/*aligning text and bullet points inside of an unnordered list*/
+ul{
+    list-style-position: inside;
+    text-align: center;
+    font-family:'Lucida Sans Regular';
+}
+/*Setting the H3 font weight to normal and not bold*/
+h3{
+    font-weight: normal;
+}
+
+h2{
+    color: #6482AD;
+    font-family: Verdana;
+}
+h1{
+    font-family: Verdana;
+    font-size:xx-large;
+        color: #6482AD;
+}
+p{
+    font-family:'Lucida Sans Regular';
+}
